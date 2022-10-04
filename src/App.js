@@ -9,7 +9,7 @@ function App() {
         <p className="color-change">
           Edit <code>src/App.js</code> and save to reload.<br>
           </br>
-          CSS style not working.
+          CSS style
         </p>
         <a
           className="App-link"
