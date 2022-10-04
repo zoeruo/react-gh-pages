@@ -12,6 +12,9 @@ function App() {
           </br>
           CSS style
         </p>
+        <button className="bg-sky-500 hover:bg-sky-700 px-0.5">
+          Click Me
+        </button>
         <a
           className="App-link"
           href="https://reactjs.org"
